@@ -1,2 +1,1 @@
-# config
-second commit
+Configuration file for Termux / Android
